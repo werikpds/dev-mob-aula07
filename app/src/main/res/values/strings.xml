@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">dmic_aula07_ws_rest_json</string>
+    <string name="action_settings">Settings</string>
+    <string name="host_address">http://172.23.224.69</string>
+    <string name="host_port">:9090</string>
+    <string name="endpoint_base">/livros</string>
+    <string name="endpoint_listar">/listar</string>
+    <string name="endpoint_salvar">/salvar</string>
+    <string name="endpoint_buscar_por_id">/%d</string>
+    <string name="title_activity_add_livro">AddLivroActivity</string>
+    <string name="titulo_text_view">Título</string>
+    <string name="autor_text_view">Autor</string>
+    <string name="nPaginas_text_view">Nº páginas</string>
+    <string name="edicao_text_view">Edição</string>
+    <string name="titulo_tip">Digite o título</string>
+    <string name="autor_tip">Digite o autor</string>
+    <string name="nPaginas_tip">Digite o nº de páginas</string>
+    <string name="edicao_tip">Digite a edição</string>
+    <string name="add_livro_descricao">Preencha os dados do livro que deseja cadastrar</string>
+</resources>
